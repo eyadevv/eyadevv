@@ -9,5 +9,8 @@
 <h2 align="center">Tech am Comfortable with</h2>
 
 <p align="center">
-  <img src="react.png" width="200" title="React.js">
+    <img src="react.png" width="200" title="React.js">
+    <img src="node.png" width="200" title="node.js">
+    <img src="github.png" width="200" title="github">
+
 </p>
