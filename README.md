@@ -1,5 +1,6 @@
 ----------
-<img src="/header.svg" alt="insane">
+<img src="header.svg" alt="insane">
+<img src="images.svg" alt="insane">
 
 <!-- <h2 align="center">🤝 my name is eyad faisal</h2>
 
