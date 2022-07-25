@@ -10,8 +10,6 @@
 <div align="center">
 <img src="/javascript.png" width="100" alt="javascript" >
 </div>
-----------
-----------
 <h1 align="center">Technologies I use </h1> 
 
 <div align="center">
