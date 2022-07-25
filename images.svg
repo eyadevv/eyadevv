@@ -8,10 +8,11 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            color: white;
         }
         </style>
         <div class="container">
-            HELLO WORLD
+            <p>color: white;</p>
         </div>
 	</foreignObject>
 </svg>
