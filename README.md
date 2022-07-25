@@ -7,8 +7,8 @@
 - currently am learning React.js + sharpening my js knowledge
 ----------
 ----------
-## Technologies I use 
-  
+<h1 align="center">Technologies I use </h1> 
+
 <div align="center">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" url="react-js.org">                    
 </div>
