@@ -6,4 +6,4 @@
 - currently am interested in learning React.js + sharpening my js knowledge
 
 
-## tech am Comfortable with:
+<h2 align="center">Tech am Comfortable with</h2>
