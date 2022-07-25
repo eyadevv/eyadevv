@@ -7,7 +7,8 @@
 
 
 <h2 align="center">Tech am Comfortable with</h2>
-
+<div display="flex" justify-content="center">
+  <img src="react.png" width="200" title="React.js">
+</div>
 <p align="center">
-  <img src="react.png" width="200" title="hover text">
 </p>
