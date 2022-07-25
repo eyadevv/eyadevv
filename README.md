@@ -1,6 +1,7 @@
-- 👋 Hi, I’m eyad faisal
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React.js
+----------
+ Hi, I’m eyad faisal
+-  I’m interested in web development
+-  I’m currently learning React.js
 
 
 <!---
