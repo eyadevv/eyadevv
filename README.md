@@ -7,7 +7,7 @@
 
 
 <h2 align="center">Technologies i use </h2>
-<div align='end'>
+<div align='end' style="width:100vw ;">
     <img align="center" src="html.png" width="70"  alt="">
     <img align="center" src="css.png" width="70"  alt="">
     <img align="center" src="javascript.png"  width="70" alt="">
