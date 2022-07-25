@@ -1,2 +1,2 @@
 ----------
-<h1 align="center">fullstack web dev from :sudan</h1>
+<h2 align="center">hey , my name is eyad faisal</h2>
