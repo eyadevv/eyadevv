@@ -9,5 +9,5 @@
 <h2 align="center">Tech am Comfortable with</h2>
 
 <p align="center">
-  <img src="node-js-brands.svg" width="350" title="hover text">
+  <img src="react.png" width="350" title="hover text">
 </p>
