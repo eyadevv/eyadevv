@@ -1,6 +1,5 @@
 ----------
 <img src="header.svg" alt="insane">
-<img src="images.svg" alt="insane">
 
 ----------
 
@@ -9,7 +8,7 @@
 - am interested in web3 and blockchain
 - currently am learning React.js + sharpening my js knowledge
 
-
+<!-- 
 <h2 align="center">Technologies i use </h2>
 <div align='end' style="width:100vw ;">
     <img align="center" src="html.png" width="70"  alt="">
@@ -20,5 +19,5 @@
 <img src="react.png" width="70" title="React.js">
 <img src="node.png" width="70" title="node.js">
 <img src="github.png" width="70" title="github">
-</div> -->
+</div>  -->
 
