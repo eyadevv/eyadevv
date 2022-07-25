@@ -3,7 +3,7 @@
 
 ----------
 - hey my name is eyad faisal 
-- currently am interested in web3 and blockchain
+- currently am interested in web3 and smart contracts
 - currently am learning React.js + sharpening my js knowledge
 ----------
 ----------
