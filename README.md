@@ -6,12 +6,11 @@
 - am interested in web3 and blockchain
 - currently am learning React.js + sharpening my js knowledge
 <div align="center">
-    <div align="center">
+    
         ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
         ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
         ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
         ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-        </div>
     <div align="center"></div>
 
 </div>
