@@ -4,3 +4,6 @@
 - fullstack web developer from sudan 🇸🇩
 - am interested in web3 and blockchain
 - currently am interested in learning React.js + sharpening my js knowledge
+
+
+## tech am Comfortable with:
