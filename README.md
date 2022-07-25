@@ -7,9 +7,9 @@
 
 
 <h2 align="center">Tech am Comfortable with</h2>
-<div >
-    <p align="center"><img src="react.png" width="100" title="React.js"></p>
-    <p><img src="node.png" width="100" title="node.js"></p>
-    <p><img src="github.png" width="100" title="github"></p>
+<div align="center">>
+<img src="react.png" width="100" title="React.js">
+<img src="node.png" width="100" title="node.js">
+<img src="github.png" width="100" title="github">
 </div>
 
