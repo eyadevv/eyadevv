@@ -9,5 +9,5 @@
 <h2 align="center">Tech am Comfortable with</h2>
 
 <p align="center">
-  <img src="react.png" width="350" title="hover text">
+  <img src="react.png" width="200" title="hover text">
 </p>
