@@ -7,7 +7,7 @@
 
 
 <h2 align="center">Tech am Comfortable with</h2>
-<div display="flex" justify-content="center">
+<div display="flex" justify-content="center" align-intems="center">
   <img src="react.png" width="200" title="React.js">
 </div>
 <p align="center">
