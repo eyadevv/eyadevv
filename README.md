@@ -8,8 +8,6 @@
 ----------
 ----------
 <img align="center" src="/javascript.png" width="100" alt="javascript" >
-----------
-----------
 
 <h1 align="center">Technologies I use </h1> 
 
