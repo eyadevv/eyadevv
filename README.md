@@ -7,7 +7,9 @@
 - currently am learning React.js + sharpening my js knowledge
 ----------
 ----------
-<img align="center" src="/javascript.png" width="100" alt="javascript" >
+<div align="center">
+<img src="/javascript.png" width="100" alt="javascript" >
+</div>
 ----------
 ----------
 <h1 align="center">Technologies I use </h1> 
