@@ -7,4 +7,7 @@
 
 
 <h2 align="center">Tech am Comfortable with</h2>
-![NODEJS](node-js-brands.svg)
+
+<p align="center">
+  <img src="node-js-brands.svg" width="350" title="hover text">
+</p>
