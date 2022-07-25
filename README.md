@@ -1,10 +1,10 @@
 ----------
- Hi, I’m eyad faisal
--  I’m interested in web development
--  I’m currently learning React.js
+<h2 align="center">🤝 my name is eyad faisal</h2>
+
+- fullstack web developer from sudan 🇸🇩
+- am interested in web3 and blockchain
+- currently am learning React.js + sharpening my js knowledge
 
 
-<!---
-eyadevv/eyadevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">Tech am Comfortable with</h2>
+
