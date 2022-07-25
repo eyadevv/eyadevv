@@ -2,7 +2,7 @@
 <img src="/header.svg" alt="insane">
 
 ----------
-
+- hey my name is eyad faisal 
 - am interested in web3 and blockchain
 - currently am learning React.js + sharpening my js knowledge
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
