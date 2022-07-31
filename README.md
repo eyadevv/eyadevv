@@ -55,12 +55,9 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry)
 
 
-<canvas>
-    <a href="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry" alt="hey"></a>
-</canvas>
+<a href="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry"/>
 
-<h1>what</h1>
-
+<img src="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry" alt="123">
 
 
 
