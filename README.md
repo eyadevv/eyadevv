@@ -52,11 +52,6 @@
 ----------
 ----------
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry)
-
-
-<a href="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry"/>
-
 <img src="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry" alt="123">
 
 
