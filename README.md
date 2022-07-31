@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry) ]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry)
 
 
 
