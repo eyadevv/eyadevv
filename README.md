@@ -51,8 +51,10 @@
 
 ----------
 ----------
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry) align='center'](https://git.io/streak-stats)
 
+
+
+[align="center" ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry) ](https://git.io/streak-stats)
 
 
 
