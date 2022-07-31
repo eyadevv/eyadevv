@@ -52,7 +52,7 @@
 ----------
 ----------
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry" alt="123">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry" alt="123">
 
 
 
