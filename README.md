@@ -56,7 +56,7 @@
 
 
 <canvas>
-    <a href="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry"></a>
+    <a href="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry" alt="hey"></a>
 </canvas>
 
 
