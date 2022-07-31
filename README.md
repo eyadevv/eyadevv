@@ -52,11 +52,13 @@
 ----------
 ----------
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry) ](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry) ]
 
 
 
-<p>This is <a href="http://github-readme-streak-stats.herokuapp.com?user=eyadevv&theme=blueberry" title="Title"></p>
+
+
+
 
 
 
