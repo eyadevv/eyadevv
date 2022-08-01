@@ -2,7 +2,7 @@
 <img src="/header.svg" alt="insane">                    
 
 ----------
-- hey my name is eyad faisal 
+<h2>Hey friend <img src="/wave.gif" alt="wave">, thsi is eyad faisal</h2>
 - currently am interested in web3 and smart contracts
 - currently am learning React.js + sharpening my js knowledge
 ----------
