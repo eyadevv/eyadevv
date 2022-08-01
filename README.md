@@ -1,8 +1,8 @@
 ----------
-<img src="/header.svg" alt="insane" height="20px">                    
+<img src="/header.svg" alt="insane">                    
 
 ----------
-<h2>Hey friend <img src="/wave.gif" alt="wave">, thsi is eyad faisal</h2>
+<h2>Hey friend <img src="/wave.gif" alt="wave" width="20px">, thsi is eyad faisal</h2>
 - currently am interested in web3 and smart contracts
 - currently am learning React.js + sharpening my js knowledge
 ----------
