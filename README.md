@@ -1,5 +1,5 @@
 ----------
-<img src="/header.svg" alt="insane">                    
+<img src="/header.svg" alt="insane" height="20px">                    
 
 ----------
 <h2>Hey friend <img src="/wave.gif" alt="wave">, thsi is eyad faisal</h2>
