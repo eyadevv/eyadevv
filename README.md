@@ -2,7 +2,7 @@
 <img src="/header.svg" alt="insane">                    
 
 ----------
-<h2>Hey friend <img src="/wave.gif" alt="wave" width="20px"> this is eyad faisal</h2>
+<h2>Hey friends <img src="/wave.gif" alt="wave" width="20px"> this is eyad faisal</h2>
 <ul>
     <li>
         currently am interested in web3 and smart contracts
