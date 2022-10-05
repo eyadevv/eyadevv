@@ -9,7 +9,7 @@
 <hr>
 <div align="center">
 <img src="/javascript.png" width="100" alt="javascript" >
-<img src="./svg/golang.svg" alt="go lang">
+<img src="./svg/golang.svg" width="100" alt="go lang">
 </div>
 <h1 align="center">Technologies I use </h1> 
 
