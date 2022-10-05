@@ -8,9 +8,9 @@
 <hr>
 <hr>
 <div align="center">
-<img src="/javascript.png" width="100" alt="javascript" >
-<img style="border-radius: 20px ;" src="./svg/golang-1.svg" width="100" alt="go lang">
-<img style="border-radius: 20px ;" src="./svg/typescript-2.svg" width="100" alt="TypeScript">
+<!-- <img src="./images/javascript.png" width="100" alt="javascript" > -->
+<img width="100" src="./images/js.png" alt="javascript">
+<img width="100" src="./images/typescript.png" alt="typescript">
 
 </div>
 <h1 align="center">Technologies I use </h1> 
