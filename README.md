@@ -2,7 +2,7 @@
 <img src="/header.svg" alt="insane">                    
 
 ----------
-<h2>Hi There <img src="/wave.gif" alt="wave" width="20px"></h2>
+<h2 align="center" >Hi There <img src="/wave.gif" alt="wave" width="20px"></h2>
 <h2>Eyad Faisal Nimir</h2>
 <ul>
     <li>
