@@ -3,15 +3,8 @@
 
 ----------
 <h2 align="center" >Hi There <img src="/wave.gif" alt="wave" width="20px"></h2>
-<h2>Eyad Faisal Nimir</h2>
-<ul>
-    <li>
-        currently am interested in web3 and smart contracts
-    </li>
-    <li>
-        currently am learning React.js + sharpening my js knowledge
-    </li>
-</ul>
+    <h3>a self taught Software Developer with +2 years of experience   </h3>
+
 <hr>
 <hr>
 <div align="center">
