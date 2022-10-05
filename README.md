@@ -16,7 +16,7 @@
 </div>
 <h1 align="center">Technologies I use </h1> 
 
-<img src="/header.svg" alt="insane">                    
+<img src="/body.svg" alt="insane">                    
 
 
 ----------
