@@ -1,5 +1,5 @@
-<svg fill="none" viewBox="0 0 800 1400" width="800" height="1400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
+<svg fill="none" viewBox="0 0 800 1400px" width="800" height="1400px" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="10000px">
 		<div >
 			<style>
 				@keyframes rotate {
@@ -51,7 +51,7 @@
 					width: 100%;
 					height: 4000px;
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
+					background-size: 600% 4000%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
