@@ -9,6 +9,7 @@
 <hr>
 <div align="center">
 <!-- <img src="./images/javascript.png" width="100" alt="javascript" > -->
+<img width="100" src="./images/js.png" alt="javascript">
 <img width="100" src="./images/typescript.png" alt="typescript">
 
 </div>
