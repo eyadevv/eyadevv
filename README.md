@@ -1,5 +1,5 @@
 ----------
-<img align="center" src="/header.svg" alt="insane">                    
+<img align="center" width="100%" src="/header.svg" alt="insane">                    
 
 ----------
 <h2 align="center" >Hi There <img src="/wave.gif" alt="wave" width="20px"></h2>
