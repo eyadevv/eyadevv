@@ -10,7 +10,7 @@
 <div align="center">
 <img width="100" src="./images/js.png" alt="javascript">
 <!-- <img height="100" src="./images/go.png" alt="go-lang"> -->
-<img height="100" src="./images/go-enhance.png" alt="go-lang">
+<!-- <img height="100" src="./images/go-enhance.png" alt="go-lang"> -->
 <img width="100" src="./images/typescript.png" alt="typescript">
 
 </div>
