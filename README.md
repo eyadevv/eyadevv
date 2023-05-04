@@ -3,7 +3,7 @@
 
 ----------
 <h2 align="center" >Hi There <img src="/wave.gif" alt="wave" width="20px"></h2>
-    <h3 align="center">a Self Taught Software Developer with +2 Years of Experience   </h3>
+    <h3 align="center">a Self Taught Web Developer Developer with +2 Years of Experience   </h3>
 
 <hr>
 <hr>
