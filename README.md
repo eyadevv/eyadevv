@@ -14,7 +14,7 @@
 <img width="100" src="./images/typescript.png" alt="typescript">
 
 </div>
-<h1 align="center">Technologies I use </h1> 
+<!-- <h1 align="center">Technologies I use </h1>  -->
 
 
 ----------
